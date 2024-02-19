@@ -9,7 +9,7 @@ title: CV
 
 ## Education
 
-- **[Université de Montréal](https://umontreal.ca/en) - [Montreal Institute for Learning Algorithms](https://mila.quebec/en/)**  
+- **[Université de Montréal](https://umontreal.ca/en) - [Mila](https://mila.quebec/en/)**  
   Master of Computer Science (Major: Machine Learning), Aug. 2022 -- April 2024
 
 - **[Tokyo Institute of Technology](https://www.titech.ac.jp/english)**  

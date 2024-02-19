@@ -1,6 +1,6 @@
 # site settings
 
-title: Kyros Ke | 
+title: Bowei Ke | Kyros
 description: Portfolio site and blog for Kyros
 taglong: Portfolio site and blog for Kyros
 tagshort: Kyros's site
@@ -20,9 +20,9 @@ photo: /assets/jpg/photo.jpg
 
 social:
   # facebook: username
-  github: xiayuhuazhang
+  # github: xiayuhuazhang
   # instagram: username
-  linkedin: username
+  # linkedin: username
   # stackoverflow: 0000000/username
   # twitter: username
 
